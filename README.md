@@ -1,3 +1,2 @@
 # background-colour-genrator
-To view the site :
-https://agarg00.github.io/background-colour-genrator/
+Live Preview is aviable at [bg color genrator](https://agarg00.github.io/background-colour-genrator/).
